@@ -2,6 +2,7 @@
   "name": "project",
   "version": "0.1.0",
   "private": true,
+  "build": "CI=false react-scripts build",
   "dependencies": {
     "@react-input/mask": "^1.0.23",
     "@testing-library/jest-dom": "^5.17.0",
